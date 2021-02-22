@@ -1,5 +1,5 @@
 # tochka
-1. Contex changed
+1. Contex
 2. Tasks
 3. Functionality
 Changes on my branch.
